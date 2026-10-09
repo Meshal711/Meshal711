@@ -1,0 +1,7 @@
+[
+  {"id": "S-01", "start": "2026-10-12T10:00", "duration_minutes": 45, "mode": "حضوري - مقر الرياض", "booked_by": null},
+  {"id": "S-02", "start": "2026-10-12T13:00", "duration_minutes": 45, "mode": "عن بُعد - Google Meet", "booked_by": null},
+  {"id": "S-03", "start": "2026-10-13T11:00", "duration_minutes": 45, "mode": "عن بُعد - Google Meet", "booked_by": null},
+  {"id": "S-04", "start": "2026-10-14T09:30", "duration_minutes": 60, "mode": "حضوري - فرع جدة", "booked_by": null},
+  {"id": "S-05", "start": "2026-10-15T14:00", "duration_minutes": 45, "mode": "عن بُعد - Google Meet", "booked_by": null}
+]

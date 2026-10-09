@@ -1,0 +1,6 @@
+[
+  {"id": "C-101", "name": "نورة القحطاني", "email": "noura@example.com", "phone": "0500000001", "job_id": "JOB-001", "status": "new", "years_experience": 3, "summary": "أخصائية توظيف في شركة تجزئة، خبرة في نظام العمل وأنظمة HRIS.", "notes": [], "interview": null},
+  {"id": "C-102", "name": "فهد الدوسري", "email": "fahad@example.com", "phone": "0500000002", "job_id": "JOB-001", "status": "screening", "years_experience": 1, "summary": "حديث تخرج بخبرة سنة في شؤون الموظفين.", "notes": [], "interview": null},
+  {"id": "C-103", "name": "ريم الشهري", "email": "reem@example.com", "phone": "0500000003", "job_id": "JOB-002", "status": "new", "years_experience": 5, "summary": "محاسبة عامة، حاصلة على SOCPA، خبرة في SAP.", "notes": [], "interview": null},
+  {"id": "C-104", "name": "عبدالله المطيري", "email": "abdullah@example.com", "phone": "0500000004", "job_id": "JOB-002", "status": "new", "years_experience": 2, "summary": "محاسب في مكتب تدقيق، يعمل على Oracle.", "notes": [], "interview": null}
+]

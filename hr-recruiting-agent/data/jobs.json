@@ -1,0 +1,20 @@
+[
+  {
+    "id": "JOB-001",
+    "title": "أخصائي موارد بشرية",
+    "department": "الموارد البشرية",
+    "location": "الرياض",
+    "requirements": ["بكالوريوس موارد بشرية أو إدارة أعمال", "خبرة 2-4 سنوات", "معرفة بنظام العمل السعودي", "إتقان Excel"],
+    "hiring_manager": "أ. سارة العتيبي",
+    "hiring_manager_email": "sarah@example.com"
+  },
+  {
+    "id": "JOB-002",
+    "title": "محاسب",
+    "department": "المالية",
+    "location": "جدة",
+    "requirements": ["بكالوريوس محاسبة", "خبرة 3 سنوات فأكثر", "SOCPA ميزة إضافية", "خبرة في أنظمة ERP"],
+    "hiring_manager": "أ. خالد الحربي",
+    "hiring_manager_email": "khalid@example.com"
+  }
+]
